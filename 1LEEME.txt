@@ -1,0 +1,6 @@
+Detalles de aplicaciones: 
+AcelV12 y AcelV14 utilizan los acelerómetros y presentan la información de distintas formas
+Corredor de chacras, Lo de Ugarte y Nuestros barrios son aplicaciones tipo catálogo
+Edad toma la fecha del sistema y solicita el ingreso de la fecha de nacimiento para calcular la edad
+leyendojson Lee un archivo subido en internet, y muestra los objetos obtenidos ordenados por un atributo
+mapvistarandom elige un punto arbitrario correspondiente a latitudes y longitudes y lo muestra en google maps con un marcador
